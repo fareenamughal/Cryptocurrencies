@@ -21,4 +21,4 @@ This project attemots to provide a report that includes the cryptocurrencies bei
 
 Below were some of the areas explored.
 
-![] (
+![Coins Mined](https://github.com/fareenamughal/Cryptocurrencies/blob/c1063ba816d0ac0dbeb4744e5b634c248caeca92/Resources/1.CoinsMined.png)
